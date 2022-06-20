@@ -1,11 +1,11 @@
-#Secure Client-Server Communication
+# Secure Client-Server Communication
 
 This project was a screening task I was given at Pari Technologies. The task was to create a secure connection between a React app and an Express server by encrypting the payload being sent to and from the server.
 Users pass in all manner of information in websites, including credit card info, this can be subject to attacks.
 This project aims to secure the communication between the client and the server.
 Requests sent from the client are encrypted before being sent to the server and decrypted at the server and vice versa. 
 
-#Instruction / Proof
+# Instruction / Proof
 Open developer tools -> Go to Network and then notice how the payloads sent to and from the server are encrypted!
 
 ![secure-form](https://user-images.githubusercontent.com/84421088/174652103-814b6ddf-74d2-47f9-8e42-5afa74e569bc.png)
