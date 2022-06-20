@@ -1,0 +1,11 @@
+A form 
+5 fields
+
+- Write APIs into Nodejs / database 
+
+- Proper validation
+- On submit, send to the satabase 
+- hide pay load in the network tab
+- Use encryption
+
+- When it is saved, the admin should be able to see all the data
